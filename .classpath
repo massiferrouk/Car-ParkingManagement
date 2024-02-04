@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="libs/material-ui-swing-1.1.2-rc1-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="libs/laf/flatlaf/flatlaf-2.1.jar"/>
+	<classpathentry kind="lib" path="libs/laf/flatlaf/flatlaf-swingx-2.1.jar"/>
+	<classpathentry kind="lib" path="libs/laf/divers/EaSynthLookAndFeel.jar"/>
+	<classpathentry kind="lib" path="libs/laf/divers/idw-gpl.jar"/>
+	<classpathentry kind="lib" path="libs/laf/divers/nimrodlf-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/laf/divers/Prog_Departement.jar"/>
+	<classpathentry kind="lib" path="libs/laf/divers/smoothmetal.jar"/>
+	<classpathentry kind="lib" path="libs/laf/divers/toniclf_slim.jar"/>
+	<classpathentry kind="lib" path="libs/laf/divers/toniclf.jar"/>
+	<classpathentry kind="lib" path="libs/laf/divers/WebLookAndFeel.jar"/>
+	<classpathentry kind="lib" path="libs/or.jar"/>
+	<classpathentry kind="lib" path="libs/or_ui.jar"/>
+	<classpathentry kind="lib" path="libs/PdfRender/itext-pdfa-5.3.1.jar"/>
+	<classpathentry kind="lib" path="libs/PdfRender/itext-xtra-5.3.1.jar"/>
+	<classpathentry kind="lib" path="libs/PdfRender/itextpdf-5.3.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/mysql-connector-java-5.1.42-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
